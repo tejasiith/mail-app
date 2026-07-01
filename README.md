@@ -36,3 +36,8 @@ The key architectural decision: the assistant panel calls `/api/assistant` which
 - Token refresh handling (access tokens expire after 1 hour)
 - More robust error handling + retry logic for Gmail API rate limits
 - Tests for the Gmail service layer and Claude tool parsing
+
+## Screenshots
+
+![Inbox](./screenshots/inbox.png)
+![Assistant filtering](./screenshots/assistant-filter.png)
