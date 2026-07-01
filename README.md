@@ -41,3 +41,5 @@ The key architectural decision: the assistant panel calls `/api/assistant` which
 
 ![Inbox](./screenshots/inbox.png)
 ![Assistant filtering](./screenshots/assistant-filter.png)
+![Compose](./screenshots/compose.png)
+![Sent folder](./screenshots/sent.png)
